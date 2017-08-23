@@ -1,0 +1,1 @@
+My first chat application in C#. Just trying to learn something new.
